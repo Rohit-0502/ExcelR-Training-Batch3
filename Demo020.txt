@@ -1,0 +1,23 @@
+Fibonacci Sequence -     Write a method which returns a given number of terms of Fibonacci Sequence.
+
+Method needs to be defined as follows
+
+Name of Method	: getFibonacciSeries() // accepts an integer that is no of terms, and returns integers
+Arguments 		: one integer
+Return type		: int
+
+Specifications:
+If input number is zero or negative print 0
+If input number is greater than zero then print 
+Sample I/O
+
+Input	: 4
+Output	: 0,1,1,2
+
+Input	: 7
+Output	: 0,1,1,2,3,5,8
+Explanation:
+
+Fibonacci Sequence:
+The Fibonacci Sequence is the series of numbers: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, ...
+The next number is found by adding up the two numbers before it.
